@@ -25,8 +25,7 @@ const Bio = () => {
             name
             summary
           }
-          social {v
-            
+          social {
             twitter
           }
         }
